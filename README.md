@@ -1,26 +1,90 @@
-<h1 align="center">Hi 👋, I'm Emmanuel Ugwueze</h1>
-<h3 align="center">A passionate Software developer with expertise in Java and Spring Framework</h3>
+# 👨‍💻Hi, I'm Emmanuel Ugwueze
+![JAVA](https://img.shields.io/badge/SPRINGBOOT-JAVA-66ccff?style=for-the-badge&logo=springboot&logoColor=white)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=engrveju&label=Profile%20views&color=0e75b6&style=flat" alt="engrveju" /> </p>
+I'm an agile full-stack software developer with experience creating innovative solutions for multiplex technology problems with Java, Spring Framework, RDBMS etc. I'm passionate about building scalable and performant web applications that provide value to users.
 
-- 🔭 I’m currently working on **Zmart-Stores**
+My experience includes developing complex applications, implementing various APIs and web services, and optimizing application performance.
+In addition to my technical skills, I am a great collaborator with an agile mindset and enjoy working in a team environment. I am always willing to learn and embrace new technologies and methodologies. I am also able to communicate technical concepts effectively to non-technical stakeholders.
 
-- 🌱 I’m currently learning **Python**
+I am eager to bring my skills and experience to any team and help drive innovation and success.
 
-- 💬 Ask me about **Java, SpringBoot, Rest APIs**
+## Technologies
 
-- 📫 How to reach me **engrveju@gmail.com**
+### STACK
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ugwuezeje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ugwuezeje" height="30" width="40" /></a>
-</p>
+![Java](https://img.shields.io/badge/Java-3A33D1?style=for-the-badge&logo=java&logoColor=white)
+![Springboot](https://img.shields.io/badge/SPRINGBOOT-0099ff?style=for-the-badge&logo=springboot&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-0066ff?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black)
+![MYSQL](https://img.shields.io/badge/MySQL-0066cc?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/POSTGRESQL-ff3300?style=for-the-badge&logo=postgresql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RABBITMQ-33cccc?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+[//]: # (![MobX]&#40;https://img.shields.io/badge/MobX-ff6600?style=for-the-badge&logo=mobx&logoColor=white&#41;)
+![Redux](https://img.shields.io/badge/Redux-6600cc?style=for-the-badge&logo=redux&logoColor=white)
+![Material UI](https://img.shields.io/badge/MaterialUI-0099ff?style=for-the-badge&logo=materialdesign&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-66ccff?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-ff66cc?&style=for-the-badge&logo=sass&logoColor=white)
+![React](https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![CSS](https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=engrveju&show_icons=true&locale=en&layout=compact" alt="engrveju" /></p>
+### DEV
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=engrveju&show_icons=true&locale=en" alt="engrveju" /></p>
+![VS](https://img.shields.io/badge/INTELLIJ_IDEA-6600cc?&style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Swagger](https://img.shields.io/badge/SWAGGER-59b300?&style=for-the-badge&logo=swagger&logoColor=white)
+![PostMan](https://img.shields.io/badge/POSTMAN-ff6600?&style=for-the-badge&logo=postman&logoColor=white)
+![LUCID](https://img.shields.io/badge/LUCID_ERD-ff6600?&style=for-the-badge&logoColor=white)
+![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white) 
+![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engrveju&" alt="engrveju" /></p>
+### VERSION CONTROL & PROJECT MANAGEMENT 
+
+![SCRUM](https://img.shields.io/badge/Scrum-ffcc66?&style=for-the-badge&logo=scrumalliance&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-000000?&style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-003399?&style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) 
+![Asana](https://img.shields.io/badge/Asana-ff6666?style=for-the-badge&logo=asana&logoColor=white)
+![Teams](https://img.shields.io/badge/Teams-24248f?style=for-the-badge&logo=microsoftteams&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-00b359?style=for-the-badge&logo=slack&logoColor=#00C7B7)
+
+
+### INSPIRATION
+
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+![Stack Exchange](https://img.shields.io/badge/StackExchange-12100E.svg?style=for-the-badge&logo=StackExchange&logoColor=white)
+
+### DESIGN & PRESENTATION
+
+![Figma](https://img.shields.io/badge/Figma-FE7A16?style=for-the-badge&logo=figma&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-cc6600?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-002266?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Indesign](https://img.shields.io/badge/Indesign-ff4d88?style=for-the-badge&logo=adobeindesign&logoColor=white)
+![Premiere](https://img.shields.io/badge/Premiere-b300b3?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![Aftereffects](https://img.shields.io/badge/After_Effects-d580ff?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![XD](https://img.shields.io/badge/XD-000000?style=for-the-badge&logo=adobexd&logoColor=white)
+![Affinity Photo](https://img.shields.io/badge/Affinity_Photo-bb33ff?style=for-the-badge&logo=affinityphoto&logoColor=white)
+![Affinity Designer](https://img.shields.io/badge/Affinity_Designer-0099cc?style=for-the-badge&logo=affinitydesigner&logoColor=white)
+![Affinity Publisher](https://img.shields.io/badge/Affinity_Publisher-e67300?style=for-the-badge&logo=affinitypublisher&logoColor=white)
+![Word](https://img.shields.io/badge/Word-0073e6?style=for-the-badge&logo=microsoftword&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-00802b?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Access](https://img.shields.io/badge/Access-b30000?style=for-the-badge&logo=microsoftaccess&logoColor=white)
+![Powerpoint](https://img.shields.io/badge/Powerpoint-e65c00?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+
+<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=engrveju&show_icons=true&locale=en&layout=compact" alt="engrveju" /></p>
+
+
+## Contact
+
+If you're interested in working together or just want to say hi, feel free to reach out to me at [ugwuezeje@gmail.com](mailto:ugwuezeje@gmail.com) 😊
+
+### May Your Code Solve A Problem Today!
